@@ -28,6 +28,7 @@ const style = css`
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-left: 1em;
   }
 
   .light-entity-card__header {
@@ -88,7 +89,7 @@ const style = css`
     display: flex;
     justify-content: center;
     align-items: center;
-    margin-right: 0.5em;
+    margin-right: 1em;
   }
 `;
 
