@@ -77,6 +77,7 @@ const style = css`
     display: flex;
     justify-content: center;
     cursor: pointer;
+    align-items: center;
   }
 
   .hidden {
@@ -87,6 +88,7 @@ const style = css`
     display: flex;
     justify-content: center;
     align-items: center;
+    margin-right: 0.5em;
   }
 `;
 
